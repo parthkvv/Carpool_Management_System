@@ -5,7 +5,6 @@ Furthermore, carpooling has documented social and environmental benefits that in
 
 ![](./screenshots/carpool2.png)
 ![](./screenshots/carpool.png)
-![](./screenshots/screenshot1.png)
 ![](./screenshots/screenshot2.png)
 ![](./screenshots/screenshot3.png)
 ![](./screenshots/screenshot4.png)
