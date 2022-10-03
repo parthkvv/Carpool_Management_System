@@ -20,7 +20,7 @@ To run the project follow these steps:
 4. From the Quick Start copy the **APP_ID, APP_REGION and AUTH_KEY**. These will be used later.
 5. Also copy the **REST_API_KEY** from the API & Auth Key tab.
 6. Navigate to the Users tab, and delete all the default users and groups leaving it clean **(very important)**.
-7. Download the repository [here](https://github.com/parthkvv/Carpool_Management_System/archive/refs/heads/master.zip) or by running `git clone https://github.com/codecourses-site/uber-clone.git` and open it in a code editor.
+7. Download the repository [here](https://github.com/parthkvv/Carpool_Management_System/archive/refs/heads/master.zip) or by running `git clone https://github.com/parthkvv/Carpool_Management_System.git` and open it in a code editor.
 8. [Head to Firebase and create a new project](https://console.firebase.google.com)
 9. Create a file called **.env** in the root folder of your project.
 10. Import and inject your secret keys in the **.env** file containing your CometChat and Firebase in this manner.
